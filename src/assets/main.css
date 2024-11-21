@@ -1,0 +1,10 @@
+/* @import './base.css'; */
+/* html,body{
+  margin: 0;
+  padding: 0;
+} */
+:root{
+  --n:5;
+  --gap:calc((100% - 200px * var(--n))/var(--n)/2);
+
+}
